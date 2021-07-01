@@ -1,0 +1,4 @@
+# Filter out files that end with
+*.in
+*.out
+*.pyc
