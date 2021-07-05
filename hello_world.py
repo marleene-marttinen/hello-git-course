@@ -1,6 +1,2 @@
 print("Hello world!")
-<<<<<<< HEAD
-
-
-=======
->>>>>>> normal/master
+print("Hello once again")
